@@ -11,6 +11,7 @@
   "dependencies": {
     "async": "^2.6.1",
     "body-parser": "^1.18.3",
+    "bootstrap": "^4.3.1",
     "connect-mongo": "^2.0.1",
     "cookie-parser": "^1.4.3",
     "ejs": "^2.6.1",
@@ -22,6 +23,7 @@
     "morgan": "^1.9.0",
     "passport": "^0.4.0",
     "passport-facebook": "^2.1.1",
+    "popper": "^1.0.1",
     "request": "^2.87.0",
     "stripe": "^6.1.1"
   }
